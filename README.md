@@ -5,8 +5,6 @@
 
 - 🌱 Learning *Web development & DSA*
 
-- 📝 I sometimes write articles on [Blogger](https://www.blogger.com/blog/posts/686635716425925772?tab=rj&bpli=1&pli=1)
-
 - 💬 Ask me about *DSA*
 
 - 📫 How to reach me *vijaykumarkaran132001@gmail.com*
@@ -38,18 +36,16 @@
 
 - 💬 Ask me about *DSA*
 
-- 📫 How to reach me *kumarsambhav00@gmail.com*
+- 📫 How to reach me *vijaykumarkaran132001@gmail.com*
 <hr>
 <p align="left"><img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" height="300" width="400"></p>
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://twitter.com/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambhavkr00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambhavkr00" height="30" width="40" /></a>
-<a href="https://instagram.com/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sambhavkr00" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sambhavkr00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sambhavkr00" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sambhavkr00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sambhavkr00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sambhavkr00" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-kumar-karan-9b6396218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaykumarkaran132001" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vijaykumar.karan.923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijaykumarkaran132001" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vijaykaran2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vijaykumarkaran132001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vijaykumarkaran3?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vijaykumarkaran132001" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -58,5 +54,5 @@
 
 <h2 align="left">Stats:</h2>
 
-![Sambhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sambhavkr00&show_icons=true&theme=radical)
-username=sambhavkr00&show_icons=true&theme=radical)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaykumarkaran132001&show_icons=true&theme=radical)
+username=vijaykumarkaran132001&show_icons=true&theme=radical)
